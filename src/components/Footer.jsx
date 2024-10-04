@@ -37,14 +37,14 @@ function Footer() {
 
           <div className=" flex items-center gap-4 px-2">
             <a
-              href="/"
+              href="https://x.com/BeePepe_Sol"
               className=" border-2 border-black rounded-full p-2 text-xl bg-white"
             >
               <BsTwitterX />
             </a>
 
             <a
-              href="/"
+              href="https://t.me/BeePepe_sol"
               className=" border-2 border-black rounded-full p-2 text-xl bg-white"
             >
               <FaTelegram />

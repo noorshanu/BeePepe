@@ -41,7 +41,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/dogeburns" target="_blank"  rel="noreferrer"
+                  href="https://t.me/BeePepe_sol" target="_blank"  rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
@@ -95,7 +95,7 @@ function Navbar() {
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
-                  href="https://x.com/DogeBurn7"
+                  href="https://x.com/BeePepe_Sol"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -104,7 +104,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/dogeburns" target="_blank" rel="noreferrer"
+                  href="https://t.me/BeePepe_sol" target="_blank" rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />

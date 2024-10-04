@@ -11,7 +11,7 @@ function HowToBuy() {
             data-aos="fade-right"
             data-aos-duration="1500"
           >
-            <h1 className=" txt-s font-dream text-white text-4xl sm:text-[60px] text-center">
+            <h1 className=" txt-s font-dream text-white text-4xl sm:text-[60px] text-center lh-1_6 ">
               {" "}
               How To BUY  $DBurn
             </h1>
