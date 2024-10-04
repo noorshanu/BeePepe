@@ -23,7 +23,7 @@ const Slider = () => {
     },
     {
       title: 'Step 4',
-      pretitle:'BUY $DogeBurn',
+      pretitle:'BUY $BPEPE',
       content: 'CONNECT YOUR WALLET TO A DECENTRALIZED EXCHANGE LIKE JUPITER OR RAYDIUM'
     }
   ];
