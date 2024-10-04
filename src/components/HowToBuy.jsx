@@ -13,7 +13,7 @@ function HowToBuy() {
           >
             <h1 className=" txt-s font-dream text-white text-4xl sm:text-[60px] text-center lh-1_6 ">
               {" "}
-              How To BUY  $DBurn
+              How To BUY  $BPEPE
             </h1>
             
           </div>
@@ -28,23 +28,7 @@ function HowToBuy() {
         </div>
 
         <div className=" flex items-center flex-col sm:flex-row justify-center gap-4 mt-2">
-          {/* <div
-            className=" bg-white border-4 border-black box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
-            data-aos="fade-right"
-            data-aos-duration="1500"
-          >
-            <img
-              src="images/logo3.jpeg"
-              alt=""
-              className="h-[220px] img-hov cursor-pointer rounded-2xl"
-            />
-            <a
-              href="/"
-              className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-2xl font-bold font-dream"
-            >
-              Buy $DBurn
-            </a>
-          </div> */}
+ 
 
           <div
             className="bg-white border-4 border-black box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
