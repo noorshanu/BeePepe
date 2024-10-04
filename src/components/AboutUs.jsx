@@ -70,7 +70,7 @@ function AboutUs() {
           <div className=" ">
         
             <h1 className="text-lg sm:text-2xl font-bold text-center my-4">
-              The Heartbeat of Solana's Meme Community
+            The sweetest Solana Meme Community !
             </h1>
             <p className=" max-w-4xl mx-auto text-center mt-[2%] mb-[3%] text-xs sm:text-xl font-bold">
             $BPEPE is the honey-loving meme on Solana, buzzing with sweetness! All the Pepe fans and meme lovers - it’s time to join the swarm! Collect, trade, and make waves in the Solana hive. It’s more than a token—it’s sweet opportunities! 🐝🍯

@@ -29,9 +29,7 @@ function App() {
 
           <ChooseHero />
         </div>
-        <div className="  z-50 relative">
-          <img src="images/cloud2.svg" alt=""  className=" absolute -top-[10%] left-0 w-full right-0" />
-        </div>
+    
         <HowToBuy />
         <div className="main-bg2 py-4">
         <div className=" mt-[4%] z-50 relative">

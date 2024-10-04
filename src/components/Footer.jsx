@@ -4,19 +4,19 @@ import { IoSend } from "react-icons/io5";
 function Footer() {
   return (
     <section
-      className=" mt-0 sm:mt-[-2%]  pb-10 sm:mb-0 hero-main relative "
+      className=" mt-0 sm:mt-[-2%]  pb-10 sm:mb-0 hero-main relative bg-white "
       id="contact"
     >
       <img
         src="images/footer-divider.png"
         alt=""
-        className=" absolute -top-[4%] sm:top-[-15%] left-0 right-0"
+        className=" absolute -top-[4%] sm:top-[-24%] left-0 right-0"
       />
 
       <div className=" container-wrapper relative  pt-[10%] ">
         <div className=" flex  flex-col sm:flex-row justify-between gap-4 items-center">
           <div>
-            <img src="images/logo.png" alt="" className=" h-[240px]" />
+            <img src="images/logo.png" alt="" className=" h-[220px] w-full" />
           </div>
 
           <div>
@@ -26,11 +26,9 @@ function Footer() {
               data-aos-duration="1500"
             >
               <h1>
-                Disclaimer:
+              Legal Disclaimer :
                 <br />
-                This is a CTO project and is a memetoken. We are not responsible
-                for financial losses. Memetokens can go up as well as fall to 0.
-                DYOR.
+              $BPEPE is a meme coin for fun, with no real value or profit expectation. By buying $BPEPE, you agree you've read and understood this
               </h1>
             </div>
           </div>

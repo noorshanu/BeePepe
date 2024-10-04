@@ -3,7 +3,10 @@ import Slider from "./Slider";
 
 function HowToBuy() {
   return (
-    <section className="bg-bee py-[2%]">
+    <section className="bg-bee py-[2%] relative bg-white" >
+          <div className=" -mt-[12%]  z-50 relative">
+          <img src="images/cloud2.svg" alt=""  className="  w-full right-0" />
+        </div>
       <div className=" container-wrapper relative">
 
         <img src="images/left.png" alt="" className=" absolute bottom-0 left-0 floating h-[200px]" />
