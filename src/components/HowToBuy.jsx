@@ -3,8 +3,12 @@ import Slider from "./Slider";
 
 function HowToBuy() {
   return (
-    <section className="bg-[#ffe76b] py-[2%]">
-      <div className=" container-wrapper">
+    <section className="bg-bee py-[2%]">
+      <div className=" container-wrapper relative">
+
+        <img src="images/left.png" alt="" className=" absolute bottom-0 left-0 floating h-[200px]" />
+        <img src="images/right.png" alt="" className=" absolute top-0 right-0 floating h-[200px]" />
+        
         <div className=" flex items-center justify-center gap-4">
           <div
             className="  py-8 px-4 w-1/2 h-full"

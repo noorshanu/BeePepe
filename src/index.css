@@ -315,3 +315,9 @@ button {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.bg-bee{
+  background-image: url(../public/images/bee.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
