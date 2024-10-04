@@ -2,7 +2,7 @@ import React from "react";
 
 function Taxs() {
   return (
-    <section className="bg-[#fdea8b] pt-[10%] pb-[8%]  relative ">
+    <section className=" pt-[10%] pb-[8%]  relative ">
       <img
         src="images/mon.png"
         alt=""
@@ -15,7 +15,7 @@ function Taxs() {
         <div className="flex flex-col sm:flex-row justify-evenly gap-4 ">
           <div data-aos="fade-right" data-aos-duration="1500">
             <img
-              src="images/img5.jpeg"
+              src="images/img1.jpeg"
               alt=""
               className=" rounded-full h-[300px] img-hov mx-auto"
             />

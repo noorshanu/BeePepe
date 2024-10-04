@@ -12,9 +12,9 @@ function Navbar() {
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-          {/* <img src="images/WhatsApp_Image_2024-04-22_at_3.39.11_AM-removebg-preview.png" className="h-[100px]" alt=" Logo" /> */}
+          <img src="images/logo.png" className="h-[60px]" alt=" Logo" />
 
-          <h1 className="v font-dream text-xl sm:text-2xl font-bold ">$DBurn</h1>
+          <h1 className="v font-dream text-xl sm:text-2xl font-bold ">$BPEPE</h1>
         </a>
 
         </div>

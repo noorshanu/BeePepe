@@ -14,23 +14,30 @@ function App() {
       <div className=" relative overflow-x-hidden">
         <Navbar />
         <Hero />
-        <BorderSec />
-        <AboutUs />
-        <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%] bg-[#fdea8b] ">
-          <img src="images/star.png" alt="" className=" h-[30px] sm:h-[80px] anime2" />
-
-          <h1 className=" text-3xl sm:text-6xl font-bold text-black font-dream">
-            Tokenomics
-          </h1>
-
-          <img src="images/star.png" alt="" className="h-[30px] sm:h-[80px] anime2" />
+        <div className=" -mt-[5%] z-50 relative">
+          <img src="images/cloud.svg" alt="" />
         </div>
-        <Taxs />
-        <ChooseHero />
+        <BorderSec />
+        <div className=" bg-about">
+          <AboutUs />
+          <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 py-[2%]  mt-8 ">
+            <h1 className=" txt-s font-dream text-white text-5xl sm:text-[100px] text-center">
+              Tokenomics
+            </h1>
+          </div>
+          {/* <Taxs /> */}
+
+          <ChooseHero />
+        </div>
+        <div className=" -mt-[11%] z-50 relative">
+          <img src="images/cloud2.svg" alt="" />
+        </div>
         <HowToBuy />
         <div className="main-bg2 py-4">
-          <Faq />
-
+        <div className=" mt-[4%] z-50 relative">
+         
+        </div>
+          {/* <Faq /> */}
           <Footer />
         </div>
       </div>

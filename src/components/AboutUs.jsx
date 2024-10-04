@@ -3,16 +3,16 @@ import CopyAddress from "./CopyAddress";
 function AboutUs() {
   return (
     <section
-      className="bg-[#fdea8b] -mt-0 sm:pt-0 pt-3 sm:-mt-2 relative overflow-hidden"
+      className=" -mt-0 sm:pt-0 pt-3 sm:-mt-2 relative overflow-hidden"
       id="about"
     >
-      <img src="images/beach.png" alt="" className=" absolute  top-0 left-0" />
-      <img
-        src="images/beach.png"
-        alt=""
-        className=" absolute  top-0 -right-10"
-      />
+     
       <div className=" container-wrapper pt-[5%]">
+        <div>
+          <h1 className="txt-s font-dream text-white text-6xl sm:text-[100px] text-center">
+            About Us
+          </h1>
+        </div>
         <div className=" flex items-center justify-center gap-2  relative z-20 py-1 bg-white border-t-2 border-l-2 border-r-2 border-black rounded-2xl w-full max-w-full sm:max-w-xl px-4 mx-auto">
           <CopyAddress />{" "}
           <button className="copy">
@@ -68,16 +68,12 @@ function AboutUs() {
         </div>
         <div className="relative bg-white border-4 box-s2 p-4 border-black rounded-3xl">
           <div className=" ">
-            <img
-              src="images/about.png"
-              alt=""
-              className="mx-auto text-center h-[30px] sm:h-[60px]"
-            />
+        
             <h1 className="text-lg sm:text-2xl font-bold text-center my-4">
               The Heartbeat of Solana's Meme Community
             </h1>
             <p className=" max-w-4xl mx-auto text-center mt-[2%] mb-[3%] text-xs sm:text-xl font-bold">
-            Doge Burn is a joyful meme token on Solana that loves its community. With every milestone, some tokens are burned, making Doge Burn more rare and valuable. Celebrate milestones, enjoy camaraderie, and watch your tokens grow in value. Join the fun with Doge Burn!
+            $BPEPE is the honey-loving meme on Solana, buzzing with sweetness! All the Pepe fans and meme lovers - it’s time to join the swarm! Collect, trade, and make waves in the Solana hive. It’s more than a token—it’s sweet opportunities! 🐝🍯
             </p>
             {/* <div className=" grid sm:hidden grid-cols-2 gap-3 items-center justify-center">
             <div className="">

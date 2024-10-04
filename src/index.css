@@ -57,7 +57,7 @@
     }
   }
   body{
-    background-color: #ffffff;
+    background-color: #ffe76b;
   }
 
   .hero-main{
@@ -303,4 +303,15 @@ button {
 
 .indicator.active {
   background-color: blue;
+}
+.txt-s{
+
+  -webkit-text-stroke: 6px #2e2911;
+    color: #ffe76c;
+}
+
+.bg-about{
+  background-image: url(../public/images/second-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 }

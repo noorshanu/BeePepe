@@ -3,42 +3,40 @@ import Slider from "./Slider";
 
 function HowToBuy() {
   return (
-    <section className="bg-[#fdea8b] py-[2%]">
+    <section className="bg-[#ffe76b] py-[2%]">
       <div className=" container-wrapper">
         <div className=" flex items-center justify-center gap-4">
           <div
-            className=" bg-white border-4 border-black box-s2 rounded-3xl py-8 px-4 w-1/2 h-full"
+            className="  py-8 px-4 w-1/2 h-full"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
-            <h1 className=" text-3xl sm:text-7xl font-bold font-dream py-1 text-center">
+            <h1 className=" txt-s font-dream text-white text-4xl sm:text-[60px] text-center">
               {" "}
-              How To BUY
+              How To BUY  $DBurn
             </h1>
-            <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center">
-              $DBurn
-            </h2>
+            
           </div>
 
-          <div
+          {/* <div
             className="bg-white border-4 border-black box-s2 rounded-3xl p-2 h-full"
             data-aos="fade-left"
             data-aos-duration="1500"
           >
             <img src="images/logo2.png" alt="" className=" h-[180px] sm:h-[220px]" />
-          </div>
+          </div> */}
         </div>
 
         <div className=" flex items-center flex-col sm:flex-row justify-center gap-4 mt-2">
-          <div
+          {/* <div
             className=" bg-white border-4 border-black box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
             <img
-              src="images/logo3.png"
+              src="images/logo3.jpeg"
               alt=""
-              className="h-[220px] img-hov cursor-pointer"
+              className="h-[220px] img-hov cursor-pointer rounded-2xl"
             />
             <a
               href="/"
@@ -46,7 +44,7 @@ function HowToBuy() {
             >
               Buy $DBurn
             </a>
-          </div>
+          </div> */}
 
           <div
             className="bg-white border-4 border-black box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
