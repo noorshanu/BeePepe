@@ -31,7 +31,7 @@ function ChooseHero() {
               SUPPLY
             </h1>
             <h2 className="font-dream text-3xl font-bold py-1 text-center">
-              100 Million
+              1  Billion
             </h2>
           </div>
           <div data-aos="fade-up" data-aos-duration="1500">
