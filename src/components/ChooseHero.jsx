@@ -18,7 +18,7 @@ function ChooseHero() {
               TAX
             </h1>
             <h2 className="font-dream text-3xl font-bold py-1 text-center">
-              0% Tax
+              10% Tax
             </h2>
           </div>
           <div data-aos="fade-up" data-aos-duration="1500">
