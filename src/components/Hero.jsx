@@ -22,7 +22,7 @@ function Hero() {
             </div>
          <div className=" flex items-center gap-4 justify-center mt-8">
          <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/24tAQmtSp1g7QxeBfTSAkVox1NzEbwAFW7GaWpUYmsoz?t=1728054349268"
+              href="#"
               className=" mx-auto font-dream box-s2   text-xl text-black bg-[#fcfac2] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
             >
               {" "}
@@ -30,7 +30,7 @@ function Hero() {
             </a>
 
             <a
-              href="https://t.me/BeePepe_sol" target="_blank" rel="noreferrer"
+              href="https://t.me/bepepesol" target="_blank" rel="noreferrer"
               className=" mx-auto font-dream box-s2   text-xl text-black bg-[#fcfac2] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff] w-[200px] text-center font-bold uppercase"
             >
               {" "}
