@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Transition } from "@headlessui/react";
-import { BsTwitterX, BsInstagram, BsFacebook } from "react-icons/bs";
-import { FaLinkedinIn, FaTelegram } from "react-icons/fa6";
+import { BsTwitterX,  } from "react-icons/bs";
+import {  FaTelegram } from "react-icons/fa6";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -32,7 +32,7 @@ function Navbar() {
         <div className="md:flex items-center">
         <div className=" flex items-center gap-4 text-white  ml-5">
         <a
-                  href="https://x.com/BeePepe_Sol" rel="noreferrer" target="_blank"
+                  href="https://x.com/BeePepesol" rel="noreferrer" target="_blank"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -41,7 +41,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/BeePepe_sol" target="_blank"  rel="noreferrer"
+                  href="https://t.me/bepepesol" target="_blank"  rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
@@ -95,7 +95,7 @@ function Navbar() {
             
             <div className=" flex items-center gap-4 text-white mb-6 ml-5">
             <a
-                  href="https://x.com/BeePepe_Sol"
+                  href="https://x.com/BeePepesol"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitterX />
@@ -104,7 +104,7 @@ function Navbar() {
            
 
                 <a
-                  href="https://t.me/BeePepe_sol" target="_blank" rel="noreferrer"
+                  href="https://t.me/bepepesol" target="_blank" rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
